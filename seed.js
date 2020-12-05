@@ -1,4 +1,4 @@
-const mongoose = require('mongoose');
+const arango = require('arango');
 
 const fs = require('fs');
 
