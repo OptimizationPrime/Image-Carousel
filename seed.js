@@ -1,4 +1,6 @@
-const mongoose = require('mongoose');
+// Switch to SQL or NoSQL Branches for Production Seed Scripts
+
+//const mongoose = require('mongoose');
 
 const fs = require('fs');
 
