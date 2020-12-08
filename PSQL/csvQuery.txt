@@ -1,0 +1,4 @@
+COPY listings(listing_id, price, bed, bath, sqft, homeAddress, neighborhood, imageURL)
+FROM '/Users/brandonrussell/HackReactor/git/image-carousel/PSQL/listings.csv'
+DELIMITER ','
+CSV HEADER;
